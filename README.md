@@ -17,7 +17,7 @@
 
 ## Overview
 
-Built a modular custom smartphone with 4G cellular, GPS, dual USB-C 3.0 ports, upgradeable storage and RAM, and a thermal camera.
+Custom smartphone with 4G cellular, GPS, dual USB-C 3.0 ports, upgradeable storage and RAM, and a thermal camera.
 
 ### Design Features
 
