@@ -27,6 +27,6 @@ Custom smartphone with 4G cellular, GPS, dual USB-C 3.0 ports, upgradeable stora
 
 ## Project Status
 
-This project is still ongoing. I am currently working on designing and 3D printing the case and finishing up the firmware.
+This project is still ongoing. I have finished all of the PCB design, and now all that is left is designing and 3D printing the case and finishing up the firmware.
 
 Making my own custom phone has been a dream of mine since I was 17, so being able to finally bring this project to life really is a dream come true. Big shoutout to all of my mentors, parents, friends, and the YouTube videos that helped me along the way <3
