@@ -1,16 +1,16 @@
-# Custom Phone
-
-Custom CM5 based phone PCB designed in Altium Designer.
-
 ## PCB
 
 <table>
   <tr>
-    <th>Front</th>
-    <th>Back</th>
+    <th align="center">Front</th>
+    <th align="center">Back</th>
   </tr>
   <tr>
-    <td><img src="Images/IMG_6684.jpeg" width="100%"></td>
-    <td><img src="Images/IMG_6678.jpeg" width="100%"></td>
+    <td valign="top" width="50%">
+      <img src="Images/IMG_6684.jpeg" width="100%" alt="Front of PCB">
+    </td>
+    <td valign="top" width="50%">
+      <img src="Images/IMG_6678.jpeg" width="100%" alt="Back of PCB">
+    </td>
   </tr>
 </table>
